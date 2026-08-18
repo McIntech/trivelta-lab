@@ -1,6 +1,6 @@
 import os
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import declarative_base, sessionmaker
 
 DATABASE_URL = os.environ.get(
     "DATABASE_URL", "postgresql://franco@localhost:5432/trivelta_lab"
@@ -15,3 +15,5 @@ def get_db():
         yield db
     finally:
         db.close()
+
+Base = declarative_base()
