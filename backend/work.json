@@ -1,0 +1,73 @@
+[{
+    "title": "NFL",
+    "order": 1,
+    "sport_name": "Football",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/football.png",
+    "tournament_id": "sr:tournament:31",
+    "country_code": "USA",
+    "country_name": "USA",
+    "season_id": "sr:season:115087",
+    "display_name": "NFL",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/nfl.png"
+
+},
+{
+    "title": "NBA",
+    "order": 2,
+    "sport_name": "Basketball",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/basketball.png",
+    "tournament_id": "sr:tournament:132",
+    "country_code": "USA",
+    "country_name": "USA",
+    "season_id": "sr:season:119257",
+    "display_name": "NBA",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/nba.png"
+},
+{
+    "title": "NCAA, Regular Season",
+    "order": 3,
+    "sport_name": "Football",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/football.png",
+    "tournament_id": "sr:tournament:27653",
+    "country_code": "USA",
+    "country_name": "USA",
+    "season_id": "sr:season:114685",
+    "display_name": "NCAAF",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/ncaa.png"
+},
+{
+    "title": "NHL",
+    "order": 5,
+    "sport_name": "Icehockey",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/icehockey.png",
+    "tournament_id": "sr:tournament:234",
+    "country_code": "USA",
+    "country_name": "USA",
+    "season_id": "sr:season:119985",
+    "display_name": "NHL",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/nhl.png"
+},
+{
+    "title": "Premier League",
+    "order": 6,
+    "sport_name": "Soccer",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/soccer.png",
+    "tournament_id": "sr:tournament:17",
+    "country_code": "ENG",
+    "country_name": "England",
+    "season_id": "sr:season:118689",
+    "display_name": "Premier League",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/premier-league.png"
+},
+{
+    "title": "TT Elite Series",
+    "order": 7,
+    "sport_name": "Table Tennis",
+    "bg_url": "https://rebet-backend.s3.us-east-2.amazonaws.com/sportbook_data/table_tennis.png",
+    "tournament_id": "sr:tournament:36377",
+    "country_code": "International",
+    "country_name": "International",
+    "season_id": null,
+    "display_name": "TT Elite",
+    "logo": "https://d2qu4js9gdp9gw.cloudfront.net/league_logos/ttelite.png"
+}]
